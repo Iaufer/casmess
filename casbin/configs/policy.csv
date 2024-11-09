@@ -1,0 +1,6 @@
+p, admin, *, *, *
+p, user, data, read
+
+
+g, alice, admin
+g, bob, user
