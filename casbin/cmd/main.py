@@ -1,5 +1,5 @@
-import casbin
 import datetime
+import casbin
 
 e = casbin.Enforcer("../configs/model.conf", "../configs/policy.csv")
 
